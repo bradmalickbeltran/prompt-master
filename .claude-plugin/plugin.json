@@ -1,0 +1,11 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "One click rewrites your rough draft into a clearer, stronger prompt before you send it. Adds a Prompt Master button above the prompt box and a /prompt-master skill.",
+  "author": { "name": "bradmalickbeltran", "url": "https://github.com/bradmalickbeltran" },
+  "homepage": "https://github.com/bradmalickbeltran/prompt-master",
+  "repository": "https://github.com/bradmalickbeltran/prompt-master",
+  "license": "MIT",
+  "keywords": ["prompt", "rewrite", "prompt-engineering"],
+  "types": "./types/index.d.ts"
+}
